@@ -123,3 +123,6 @@ Supplementary information, sample code snippets, and other relevant details.
 ### Sample Code Snippets
 
 Code examples that illustrate key parts of the project, such as data preprocessing, model training, and evaluation.
+## Live Demo
+You can view a live demo of the project [here](https://prachiupadhya.github.io/churn-prediction/).
+
